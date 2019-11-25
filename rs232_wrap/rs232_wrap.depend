@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1561558386 source:/home/dl3752/Work/bitbucket/daveutil/rs232_wrap/src/rs232_wrap.cpp
+	"rs232.h"
+	"rs232_wrap.h"
+	"DaveUtil.h"
+
+1552497010 source:/home/dl3752/Work/bitbucket/daveutil/rs232_wrap/src/rs232.cpp
+	"rs232.h"
+
+1544952312 /home/dl3752/Work/bitbucket/daveutil/rs232_wrap/include/rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1561571837 source:/home/dl3752/Work/bitbucket/daveutil/rs232_wrap/main.cpp
+	"rs232_wrap.h"
+
+1561573314 /home/dl3752/Work/bitbucket/daveutil/rs232_wrap/include/rs232_wrap.h
+	<string>
+	<vector>
+
+1544952768 source:/home/dl3752/Work/bitbucket/daveutil/rs232_wrap/src/DaveUtil.cpp
+	"DaveUtil.h"
+	<iostream>
+	<Windows.h>
+	<unistd.h>
+
+1544952768 /home/dl3752/Work/bitbucket/daveutil/rs232_wrap/include/DaveUtil.h
+
